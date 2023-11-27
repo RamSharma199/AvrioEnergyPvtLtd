@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-Live link - https://ramsharma199.github.io/AvrioEnergyPvtLtd
-The completed assignment is responsive for mobile and tab
+## Live link - https://ramsharma199.github.io/AvrioEnergyPvtLtd
+## The completed assignment is responsive for mobile and tab
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
