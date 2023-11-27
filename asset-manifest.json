@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/AvrioEnergyPvtLtd/static/css/main.e475b420.css",
+    "main.js": "/.github.io/AvrioEnergyPvtLtd/static/js/main.fc3a7aeb.js",
+    "static/js/787.f40a2750.chunk.js": "/.github.io/AvrioEnergyPvtLtd/static/js/787.f40a2750.chunk.js",
+    "index.html": "/.github.io/AvrioEnergyPvtLtd/index.html",
+    "main.e475b420.css.map": "/.github.io/AvrioEnergyPvtLtd/static/css/main.e475b420.css.map",
+    "main.fc3a7aeb.js.map": "/.github.io/AvrioEnergyPvtLtd/static/js/main.fc3a7aeb.js.map",
+    "787.f40a2750.chunk.js.map": "/.github.io/AvrioEnergyPvtLtd/static/js/787.f40a2750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e475b420.css",
+    "static/js/main.fc3a7aeb.js"
+  ]
+}
