@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AvrioEnergyPvtLtd/static/css/main.778bb5f1.css",
-    "main.js": "/AvrioEnergyPvtLtd/static/js/main.675963be.js",
+    "main.css": "/AvrioEnergyPvtLtd/static/css/main.aba9b8b5.css",
+    "main.js": "/AvrioEnergyPvtLtd/static/js/main.1b6c63af.js",
     "static/js/787.f40a2750.chunk.js": "/AvrioEnergyPvtLtd/static/js/787.f40a2750.chunk.js",
     "index.html": "/AvrioEnergyPvtLtd/index.html",
-    "main.778bb5f1.css.map": "/AvrioEnergyPvtLtd/static/css/main.778bb5f1.css.map",
-    "main.675963be.js.map": "/AvrioEnergyPvtLtd/static/js/main.675963be.js.map",
+    "main.aba9b8b5.css.map": "/AvrioEnergyPvtLtd/static/css/main.aba9b8b5.css.map",
+    "main.1b6c63af.js.map": "/AvrioEnergyPvtLtd/static/js/main.1b6c63af.js.map",
     "787.f40a2750.chunk.js.map": "/AvrioEnergyPvtLtd/static/js/787.f40a2750.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.778bb5f1.css",
-    "static/js/main.675963be.js"
+    "static/css/main.aba9b8b5.css",
+    "static/js/main.1b6c63af.js"
   ]
 }
